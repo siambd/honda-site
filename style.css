@@ -1,0 +1,18 @@
+.header-image{
+    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-left: 1px;
+}
+.header-part{
+    margin-bottom: 50px;
+}
+.header-bg{
+    background-color: #264653;
+}
+.size img{
+    width: 288px;
+    height: 243px;
+}
+.scale{
+    filter: grayscale(100%);
+}
